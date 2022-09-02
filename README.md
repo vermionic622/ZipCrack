@@ -13,6 +13,6 @@ Installation Hel:
 
     * cd ZipCrack
 
-    * python3 zipcrack.py
+    * python3 zipkrack.py
 
 Type help for more information.
