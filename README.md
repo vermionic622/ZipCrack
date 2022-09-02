@@ -11,8 +11,8 @@ Installation Hel:
 
     * git clone git@github.com:vermionic622/ZipCrack.git
 
-    * cd ZipKrack
+    * cd ZipCrack
 
-    * python3 zipkrack.py
+    * python3 zipcrack.py
 
 Type help for more information.
