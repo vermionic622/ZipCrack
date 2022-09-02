@@ -9,7 +9,7 @@ Installation Hel:
 
     * apt install git
 
-    * git clone https://github.com/Cyber-Anonymous/ZipKrack.git
+    * git clone git@github.com:vermionic622/ZipCrack.git
 
     * cd ZipKrack
 
